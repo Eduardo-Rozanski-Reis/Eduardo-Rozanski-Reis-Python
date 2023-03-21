@@ -1,0 +1,6 @@
+media = float (input("Infome a media:"))
+if media >= 6:
+    print("Aprovado")
+elif media < 5:
+    print("Reprovado")
+print("A media de Barbara é:", 4)
